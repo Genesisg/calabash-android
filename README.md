@@ -20,8 +20,7 @@ The documention is split into the following sections:
 
 Generate a Cucumber skeleton
 ------------------------
-To get started with calabash it might be a good idea to run `calabash-android gen`. It will create a Cucumber skeleton
-in the current folder like this:
+To get started with calabash it might be a good idea to run `calabash-android gen`. Hit return key to confirm on being questioned and notice that the information : features subdirectory created is displayed. It will create a Cucumber skeleton in the current folder like this:
 
     features
     |_support
